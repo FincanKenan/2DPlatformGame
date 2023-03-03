@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mermiItem1
+  - mermiItem2
+  - mermiItem3
+  - anahtar1
+  - anahtar2
+  - anahtar3
+  - sonrakiseviye
+  - PlayerMermi
+  - gaz
+  - Trap
+  - spawn1-1
+  - spawn1-2
+  - spawn2-1
+  - spawn2-2
+  - "d\xFC\u015Fman"
+  - roket
+  - son
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "\u0131\u015F\u0131k"
+    uniqueID: 1771213983
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
