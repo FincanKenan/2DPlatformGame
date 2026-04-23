@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Foundation
+  - key
+  - powercell
+  - ammo
+  - Enemy
+  - Bullet
+  - Obstacle
+  - deadzone
+  - trap
+  - rocket
+  - Door
+  - shield
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Foundation
+  - background
+  - bullet
+  - wall
+  - rocket
+  - trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3159021215
+    locked: 0
+  - name: Other
+    uniqueID: 315076349
+    locked: 0
+  - name: items
+    uniqueID: 2454993861
+    locked: 0
+  - name: Characters
+    uniqueID: 4258016619
+    locked: 0
+  - name: "\xD6n"
+    uniqueID: 2685576007
+    locked: 0

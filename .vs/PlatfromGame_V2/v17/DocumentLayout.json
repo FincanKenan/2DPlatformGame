@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Unity\\PlatfromGame_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|c:\\work\\unity\\platfromgame_v2\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\countdowntimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\countdowntimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\characterinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\secondenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\secondenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\rocketbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rocketbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\portals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\keytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\rocketsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rocketsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\trap_laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap_laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\trap_saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap_saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|C:\\Work\\Unity\\PlatfromGame_V2\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C512E2-0023-5A18-FC01-73B57C0B6F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:42:10.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NextLevel.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NextLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:56:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RocketBehavior.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\RocketBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RocketBehavior.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\RocketBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RocketBehavior.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswGsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:14:53.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RocketSystem.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\RocketSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RocketSystem.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\RocketSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RocketSystem.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwDQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:15:30.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Shield.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shield.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Shield.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shield.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:08:48.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KeyTracker.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\KeyTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyTracker.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\KeyTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyTracker.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:43:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecondEnemyController.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\SecondEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SecondEnemyController.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\SecondEnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SecondEnemyController.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAswDsBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:53:41.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:47:01.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T21:33:17.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAuwKUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:04:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:08:14.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterMovement.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterMovement.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAowCgBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:51:15.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterInteraction.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CharacterInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterInteraction.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CharacterInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterInteraction.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAUwAcBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:41:45.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:20:06.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Sound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:20:12.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountDownTimer.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CountDownTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CountDownTimer.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\CountDownTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CountDownTimer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:30:39.564Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:34:50.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Portals.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Portals.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portals.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Portals.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portals.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwC4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:54:31.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Trap_Saw.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Trap_Saw.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap_Saw.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Trap_Saw.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap_Saw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:17:39.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trap_Laser.cs",
+              "DocumentMoniker": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Trap_Laser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap_Laser.cs",
+              "ToolTip": "C:\\Work\\Unity\\PlatfromGame_V2\\Assets\\Scripts\\Trap_Laser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap_Laser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:35:55.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
