@@ -1,13 +1,15 @@
+> A 2D platformer prototype showcasing core gameplay systems and level design principles.
+
 #  2D Platformer Prototype (Unity)
 
 A playable 2D platformer prototype developed with Unity, focused on core gameplay mechanics such as movement, traps, key collection, and level interaction.
 
-##  Project Background
+## 🧠 Project Background
 
 This project was originally developed in 2023 as one of my early Unity projects.
 It is not a fully completed commercial game, but a functional prototype created to practice platformer mechanics, obstacle design, and level flow.
 
-##  Implemented Features
+## ⚙️ Implemented Features
 
 * Character movement (run and jump)
 * Trap and obstacle mechanics
@@ -16,14 +18,14 @@ It is not a fully completed commercial game, but a functional prototype created 
 * Core level gameplay loop
 * Basic UI elements
 
-##  Technical Highlights
+## 🛠 Technical Highlights
 
 * Unity 2D physics-based gameplay
 * Collision-triggered interactions
 * Scene-based prototype structure
 * Early gameplay systems implementation in C#
 
-##  Prototype Goal
+## 🧩 Prototype Goal
 
 This project was built to explore and practice:
 
@@ -32,7 +34,7 @@ This project was built to explore and practice:
 * level objective design
 * basic gameplay flow structure
 
-##  Gameplay
+## 🎮s Gameplay
 
  Mechanics Combination
 <img width="2048" height="1013" alt="gamePlay_4" src="https://github.com/user-attachments/assets/4e5ab7e9-3c43-47b8-a3f4-e334154e9b40" />
@@ -58,12 +60,12 @@ Example of structured platform layout and difficulty pacing.
 2. Open an available gameplay scene
 3. Press Play
 
-##  Tech Stack
+## 🧱 Tech Stack
 
 * Unity (2D)
 * C#
 * Visual Studio
 
-##  Notes
+## 📌 Notes
 
 This repository is an early Unity prototype and is intended to showcase foundational gameplay programming rather than a fully finished game.
