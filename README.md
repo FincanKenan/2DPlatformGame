@@ -2,7 +2,11 @@
 
 A system-focused prototype demonstrating core platformer mechanics such as movement, combat, and obstacle interaction.
 
+---
+
 ##  🎥 Demo
+
+Core gameplay loop: move → jump → avoid hazards → defeat enemies → progress.
 
 <img width="800" height="450" alt="2026-04-2420-01-42-ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/b625ea63-ec52-4ccf-8d94-d30270224996" />
 
@@ -25,19 +29,32 @@ Player navigating through traps and interactive level elements.
 <img width="2048" height="1017" alt="gamePlay_1" src="https://github.com/user-attachments/assets/f8f5fda3-629a-4ed7-8ef8-932cbac93d83" />
 Example of structured platform layout and difficulty pacing.
 
+---
+
 ## 🧠 Project Background
 
 This project was originally developed in 2023 as one of my early Unity projects.
 It is not a fully completed commercial game, but a functional prototype created to practice platformer mechanics, obstacle design, and level flow.
 
-## ⚙️ Implemented Features
+---
 
-* Character movement (run and jump)
-* Trap and obstacle mechanics
-* Key collection system
-* Exit / level goal logic
-* Core level gameplay loop
-* Basic UI elements
+## ⚙️ Core Features
+
+- Modular player movement system (run, jump)
+- Enemy AI and interaction system
+- Hazard system (lasers, traps, dynamic obstacles)
+- Collision & damage handling
+- Scalable gameplay architecture
+
+  ---
+
+## 💡 Design Approach
+
+- Built with modular components for extensibility
+- Designed to support new abilities and enemy types
+- Separation between player, enemy, and environment systems
+
+---
 
 ## 🛠 Technical Highlights
 
@@ -45,6 +62,8 @@ It is not a fully completed commercial game, but a functional prototype created 
 * Collision-triggered interactions
 * Scene-based prototype structure
 * Early gameplay systems implementation in C#
+
+  ---
 
 ## 🧩 Prototype Goal
 
@@ -55,6 +74,7 @@ This project was built to explore and practice:
 * level objective design
 * basic gameplay flow structure
 
+---
 
 ## 🚀 How to Run
 
@@ -62,11 +82,15 @@ This project was built to explore and practice:
 2. Open an available gameplay scene
 3. Press Play
 
+---
+
 ## 🧱 Tech Stack
 
 * Unity (2D)
 * C#
 * Visual Studio
+
+---
 
 ## 📌 Notes
 
