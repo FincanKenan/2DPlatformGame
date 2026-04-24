@@ -34,6 +34,13 @@ This project was built to explore and practice:
 * level objective design
 * basic gameplay flow structure
 
+##  🤖 2D Platformer System Showcase
+
+<img width="800" height="450" alt="2026-04-2420-01-42-ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/b625ea63-ec52-4ccf-8d94-d30270224996" />
+
+
+A modular 2D platformer system with movement, combat, and interactive mechanics.
+
 ## 🎮s Gameplay
 
  Mechanics Combination
