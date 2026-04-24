@@ -1,8 +1,29 @@
-> A 2D platformer prototype showcasing core gameplay systems and level design principles.
+#  2D Platformer Mechanics Prototype (Unity)
 
-#  2D Platformer Prototype (Unity)
+A system-focused prototype demonstrating core platformer mechanics such as movement, combat, and obstacle interaction.
 
-A playable 2D platformer prototype developed with Unity, focused on core gameplay mechanics such as movement, traps, key collection, and level interaction.
+##  🎥 Demo
+
+<img width="800" height="450" alt="2026-04-2420-01-42-ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/b625ea63-ec52-4ccf-8d94-d30270224996" />
+
+
+A modular 2D platformer system with movement, combat, and interactive mechanics.
+
+ Mechanics Combination
+<img width="2048" height="1013" alt="gamePlay_4" src="https://github.com/user-attachments/assets/4e5ab7e9-3c43-47b8-a3f4-e334154e9b40" />
+Combination of core mechanics including timer, enemy interaction, and movement.
+
+ Core Gameplay
+<img width="2048" height="1029" alt="gamePlay_3" src="https://github.com/user-attachments/assets/bb1bbfc2-343d-4f5a-bc98-a5ff4874cbd6" />
+Different enemy types and obstacle systems affecting gameplay flow.
+
+ Enemy & Obstacles
+<img width="2048" height="1019" alt="gamePlay_2" src="https://github.com/user-attachments/assets/0c4c5aaa-f31b-431b-95e1-5805199c59aa" />
+Player navigating through traps and interactive level elements.
+
+ Level Design
+<img width="2048" height="1017" alt="gamePlay_1" src="https://github.com/user-attachments/assets/f8f5fda3-629a-4ed7-8ef8-932cbac93d83" />
+Example of structured platform layout and difficulty pacing.
 
 ## 🧠 Project Background
 
@@ -33,32 +54,6 @@ This project was built to explore and practice:
 * obstacle interaction
 * level objective design
 * basic gameplay flow structure
-
-##  🤖 2D Platformer System Showcase
-
-<img width="800" height="450" alt="2026-04-2420-01-42-ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/b625ea63-ec52-4ccf-8d94-d30270224996" />
-
-
-A modular 2D platformer system with movement, combat, and interactive mechanics.
-
-## 🎮s Gameplay
-
- Mechanics Combination
-<img width="2048" height="1013" alt="gamePlay_4" src="https://github.com/user-attachments/assets/4e5ab7e9-3c43-47b8-a3f4-e334154e9b40" />
-Combination of core mechanics including timer, enemy interaction, and movement.
-
- Core Gameplay
-<img width="2048" height="1029" alt="gamePlay_3" src="https://github.com/user-attachments/assets/bb1bbfc2-343d-4f5a-bc98-a5ff4874cbd6" />
-Different enemy types and obstacle systems affecting gameplay flow.
-
- Enemy & Obstacles
-<img width="2048" height="1019" alt="gamePlay_2" src="https://github.com/user-attachments/assets/0c4c5aaa-f31b-431b-95e1-5805199c59aa" />
-Player navigating through traps and interactive level elements.
-
- Level Design
-<img width="2048" height="1017" alt="gamePlay_1" src="https://github.com/user-attachments/assets/f8f5fda3-629a-4ed7-8ef8-932cbac93d83" />
-Example of structured platform layout and difficulty pacing.
-
 
 
 ## 🚀 How to Run
